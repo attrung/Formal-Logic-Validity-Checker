@@ -1,9 +1,6 @@
 # Formal Logic Validity Checker
- This program returns the truth table of an argument
 
-<p>This program was written as a work at my Minerva Schools at KGI</p>
-
-<p> This was the first optional challenge in my Formal Analyses class. </p>
+<p><strong>This program was written as a work at my Minerva Schools at KGI, as the first optional challenge in my Formal Analyses class. </strong></p>
 
 <p> The python file include functions that return a truth table and the validity of the argument. 
 
